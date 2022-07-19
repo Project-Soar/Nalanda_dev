@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Celestial.mp3-381e91ec061de11241fc484ed9db440e.mp3str"
+
+[deps]
+
+source_file="res://test/rpg-pack/soundtrack/Celestial.mp3"
+dest_files=[ "res://.import/Celestial.mp3-381e91ec061de11241fc484ed9db440e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
